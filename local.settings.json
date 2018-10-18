@@ -1,0 +1,16 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "WEBSITE_SLOT_NAME": "Production",
+    "FUNCTIONS_EXTENSION_VERSION": "~1",
+    "ScmType": "None",
+    "WEBSITE_AUTH_ENABLED": "False",
+    "sendGridApiKey": "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",
+    "AzureWebJobsDashboard": "DefaultEndpointsProtocol=https;AccountName=helloworlfuncti8372;AccountKey=oD0IpgXb9nilUcwhP/y3t6ESDV3fpBizdsvHABo9RfBpPbk8vgYZDiS3c007OnoPrGCLymktwnzWjai5s5dRYg==",
+    "WEBSITE_NODE_DEFAULT_VERSION": "6.5.0",
+    "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "DefaultEndpointsProtocol=https;AccountName=helloworlfuncti8372;AccountKey=oD0IpgXb9nilUcwhP/y3t6ESDV3fpBizdsvHABo9RfBpPbk8vgYZDiS3c007OnoPrGCLymktwnzWjai5s5dRYg==",
+    "WEBSITE_CONTENTSHARE": "helloworlfunctionsapp8372",
+    "WEBSITE_SITE_NAME": "HelloWorlFunctionsApp",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=helloworlfuncti8372;AccountKey=oD0IpgXb9nilUcwhP/y3t6ESDV3fpBizdsvHABo9RfBpPbk8vgYZDiS3c007OnoPrGCLymktwnzWjai5s5dRYg=="
+  }
+}
